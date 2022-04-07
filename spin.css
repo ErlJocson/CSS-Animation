@@ -12,3 +12,7 @@
 .spin {
   animation: spin 1s ease;
 }
+
+.spin-fast {
+  animation: spin 600ms ease;
+}

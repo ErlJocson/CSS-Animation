@@ -16,6 +16,10 @@
   animation: slide-in-from-left 1s ease;
 }
 
+.slide-in-from-left-fast {
+  animation: slide-in-from-left 600ms ease;
+}
+
 /*  */
 
 @keyframes slide-in-from-right {
@@ -32,6 +36,10 @@
 
 .slide-in-from-right {
   animation: slide-in-from-right 1s ease;
+}
+
+.slide-in-from-right-fast {
+  animation: slide-in-from-right 600ms ease;
 }
 
 /*  */
@@ -51,6 +59,10 @@
   animation: slide-in-from-top 1s ease;
 }
 
+.slide-in-from-top-fast {
+  animation: slide-in-from-top 600ms ease;
+}
+
 /*  */
 
 @keyframes slide-in-from-bottom {
@@ -66,4 +78,8 @@
 
 .slide-in-from-bottom {
   animation: slide-in-from-bottom 1s ease;
+}
+
+.slide-in-from-bottom-fast {
+  animation: slide-in-from-bottom 600ms ease;
 }

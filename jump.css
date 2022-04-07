@@ -20,3 +20,7 @@
 .jump {
   animation: jump 700ms ease;
 }
+
+.jump-fast {
+  animation: jump 500ms ease;
+}

@@ -11,3 +11,7 @@
 .reveal {
   animation: reveal 1s ease;
 }
+
+.reveal-fast {
+  animation: reveal 700ms ease;
+}
